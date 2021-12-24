@@ -85,5 +85,155 @@
             <Image url="@Islands1.png" />
          </image>
       </ImageView>
+      <ImageView fitHeight="150.0" fitWidth="200.0" pickOnBounds="true" preserveRatio="true" />
+      <ImageView fitHeight="150.0" fitWidth="200.0" layoutX="1181.0" layoutY="452.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@Islands1.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="150.0" fitWidth="200.0" layoutX="1430.0" layoutY="456.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@Islands1.png" />
+         </image>
+      </ImageView>
+
+      <ImageView fitHeight="150.0" fitWidth="200.0" layoutX="1670.0" layoutY="450.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@Islands1.png" />
+         </image>
+      </ImageView>
+
+      <ImageView fitHeight="150.0" fitWidth="200.0" layoutX="2000.0" layoutY="450.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@Islands1.png" />
+         </image>
+      </ImageView>
+
+      <ImageView fitHeight="150.0" fitWidth="200.0" layoutX="2300.0" layoutY="450.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@Islands1.png" />
+         </image>
+      </ImageView>
+
+      <ImageView fitHeight="150.0" fitWidth="200.0" layoutX="2600.0" layoutY="450.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@Islands1.png" />
+         </image>
+      </ImageView>
+
+      <ImageView fitHeight="150.0" fitWidth="200.0" layoutX="2900.0" layoutY="450.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@Islands1.png" />
+         </image>
+      </ImageView>
+
+      <ImageView fitHeight="150.0" fitWidth="200.0" layoutX="3100.0" layoutY="450.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@Islands1.png" />
+         </image>
+      </ImageView>
+
+      <ImageView fitHeight="150.0" fitWidth="200.0" layoutX="3300.0" layoutY="450.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@Islands1.png" />
+         </image>
+      </ImageView>
+
+      <ImageView fitHeight="150.0" fitWidth="200.0" layoutX="3600.0" layoutY="450.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@Islands1.png" />
+         </image>
+      </ImageView>
+
+      <ImageView fitHeight="150.0" fitWidth="200.0" layoutX="3900.0" layoutY="450.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@Islands1.png" />
+         </image>
+      </ImageView>
+
+      <ImageView fitHeight="150.0" fitWidth="200.0" layoutX="4200.0" layoutY="450.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@Islands1.png" />
+         </image>
+      </ImageView>
+
+      <ImageView fitHeight="150.0" fitWidth="200.0" layoutX="4500.0" layoutY="450.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@Islands1.png" />
+         </image>
+      </ImageView>
+
+      <ImageView fitHeight="150.0" fitWidth="200.0" layoutX="4800.0" layoutY="450.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@Islands1.png" />
+         </image>
+      </ImageView>
+
+      <ImageView fitHeight="150.0" fitWidth="200.0" layoutX="5100.0" layoutY="450.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@Islands1.png" />
+         </image>
+      </ImageView>
+
+      <ImageView fitHeight="150.0" fitWidth="200.0" layoutX="5400.0" layoutY="450.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@Islands1.png" />
+         </image>
+      </ImageView>
+
+      <ImageView fitHeight="150.0" fitWidth="200.0" layoutX="5700.0" layoutY="450.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@Islands1.png" />
+         </image>
+      </ImageView>
+
+      <ImageView fitHeight="150.0" fitWidth="200.0" layoutX="6000.0" layoutY="450.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@Islands1.png" />
+         </image>
+      </ImageView>
+
+      <ImageView fitHeight="150.0" fitWidth="200.0" layoutX="6300.0" layoutY="450.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@Islands1.png" />
+         </image>
+      </ImageView>
+
+      <ImageView fitHeight="150.0" fitWidth="200.0" layoutX="6600.0" layoutY="450.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@Islands1.png" />
+         </image>
+      </ImageView>
+
+      <ImageView fitHeight="150.0" fitWidth="200.0" layoutX="6900.0" layoutY="450.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@Islands1.png" />
+         </image>
+      </ImageView>
+
+      <ImageView fitHeight="150.0" fitWidth="200.0" layoutX="7200.0" layoutY="450.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@Islands1.png" />
+         </image>
+      </ImageView>
+
+      <ImageView fitHeight="150.0" fitWidth="200.0" layoutX="7500.0" layoutY="450.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@Islands1.png" />
+         </image>
+      </ImageView>
+
+      <ImageView fitHeight="150.0" fitWidth="200.0" layoutX="7800.0" layoutY="450.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@Islands1.png" />
+         </image>
+      </ImageView>
+
+
+
+
+
+
+
    </children>
 </AnchorPane>
