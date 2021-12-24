@@ -48,6 +48,8 @@ public class Contoller2  {
                 controller.showscore();
                 controller.move();
                 controller.updateText();
+//                System.out.println(controller.I1.getX()+" "+ I1.getY());
+//                System.out.println(I2.getX()+" "+ I2.getY());
             }
         });
 
